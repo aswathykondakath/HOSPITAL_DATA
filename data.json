@@ -1,0 +1,27 @@
+[
+    {
+        "Hospital_Name": "RajagiriHospital",
+        "Patient_Count": "200",
+        "Hospital_Location": "TVM"
+    },
+    {
+        "Hospital_Name": "GovtHospital",
+        "Patient_Count": "300",
+        "Hospital_Location": "KOLLAM"
+    },
+    {
+        "Hospital_Name": "AsterMedcity",
+        "Patient_Count": "200",
+        "Hospital_Location": "KOTTAKKAL"
+    },
+    {
+        "Hospital_Name": "BABYMEMORIALHOSPITAL",
+        "Patient_Count": "600",
+        "Hospital_Location": "CALICUT"
+    },
+    {
+        "Hospital_Name": "AMRUTHAHOSPITAL",
+        "Patient_Count": "1600",
+        "Hospital_Location": "COCHIN"
+    }
+]
